@@ -25,7 +25,7 @@ SECRET_KEY = 'j=6*rfv+1qz!-_)o#c$p&c+!)92bkb0d0v74lqaprqp6#lqie@'
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["shashafierce.pythonanywhere.com"]
 
 
 # Application definition
